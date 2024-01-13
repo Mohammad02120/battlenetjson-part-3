@@ -1,95 +1,278 @@
 {
-         "slider": [
-      {
-        "id": "10",
-        "pic": "./public/images/Cortez_Base_Game-Bnet_Game-Card_Feature-960x540.webp",
-        "code": "slide1"
+         "card":[
+        {"id":"33",
+        "header":"DIABLO IV",
+        "logo":"./public/images/7.png",
+        "text":"Pre-purchase now for Early Access to the Open Beta. Early access begins March 17",
+        "minitext":"Action RPG",
+        "pic":"./public/images/card16.jpg",
+        "price":"$99.99"
+      
       },
-      { "id": "11", 
-      "pic": "./public/images/call.webp" ,
-      "code":"slide2"
+      {"id":"34",
+      "header":"DIABLO IV",
+      "logo":"./public/images/2.png",
+      "text":"Pre-purchase now for Early Access to the Open Beta. Early access begins March 17",
+      "minitext":"Action RPG",
+      "pic":"./public/images/card15.jpg",
+      "price":"$99.99"
+    
     },
-      {
-        "id": "12",
-        "pic": "./public/images/CODMW3_Open_Beta_Early_Access-Bnet_Game-Banner_Mobile-en-928x400.jpg",
-        "code": "slide3"
-      },
-      {
-        "id": "13",
-        "pic": "./public/images/enUS_DIA_D4_bnet_ob_stat_bchbnet_enus_928x400.webp",
-        "code":"slide4"
+    {"id":"40",
+    "header":"DIABLO IV",
+    "logo":"./public/images/7.png",
+    "text":"Pre-purchase now for Early Access to the Open Beta. Early access begins March 17",
+    "minitext":"Action RPG",
+    "pic":"./public/images/card13.jpg",
+    "price":"$99.99"
   
-      },
-      {
-        "id": "14",
-        "pic": "./public/images/HS_25p6_BattleNet_DesktopHeader_1600x500_RN02b.webp",
-        "code":"slide5"
+  },
+  {"id":"35",
+  "header":"DIABLO IV",
+  "logo":"./public/images/3.png",
+  "text":"Pre-purchase now for Early Access to the Open Beta. Early access begins March 17",
+  "minitext":"Action RPG",
+  "pic":"./public/images/card12.jpg",
+  "price":"$99.99"
   
-      }
-    ],
-        "icons":[
-      {
-        "id":"15",
-        "logo":"./public/images/2.png"
+  },
+  {"id":"36",
+  "header":"DIABLO IV",
+  "logo":"./public/images/5.png",
+  "text":"Pre-purchase now for Early Access to the Open Beta. Early access begins March 17",
+  "minitext":"Action RPG",
+  "pic":"./public/images/card7.webp",
+  "price":"$99.99"
+  
+  },
+  {"id":"37",
+  "header":"DIABLO IV",
+  "logo":"./public/images/6.png",
+  "text":"Pre-purchase now for Early Access to the Open Beta. Early access begins March 17",
+  "minitext":"Action RPG",
+  "pic":"./public/images/card1.webp",
+  "price":"$99.99"
+  
+  },
+  {"id":"38",
+  "header":"DIABLO IV",
+  "logo":"./public/images/10.png",
+  "text":"Pre-purchase now for Early Access to the Open Beta. Early access begins March 17",
+  "minitext":"Action RPG",
+  "pic":"./public/images/card2.webp",
+  "price":"$99.99"
+  
+  },
+  {"id":"39",
+  "header":"DIABLO IV",
+  "logo":"./public/images/11.png",
+  "text":"Pre-purchase now for Early Access to the Open Beta. Early access begins March 17",
+  "minitext":"Action RPG",
+  "pic":"./public/images/card3.webp",
+  "price":"$99.99"
+  
+  },
+  {"id":"41",
+  "header":"DIABLO IV",
+  "logo":"./public/images/12.png",
+  "text":"Pre-purchase now for Early Access to the Open Beta. Early access begins March 17",
+  "minitext":"Action RPG",
+  "pic":"./public/images/card4.webp",
+  "price":"$99.99"
+  
+  },
+  {"id":"42",
+  "header":"DIABLO IV",
+  "logo":"./public/images/13.png",
+  "text":"Pre-purchase now for Early Access to the Open Beta. Early access begins March 17",
+  "minitext":"Action RPG",
+  "pic":"./public/images/card5.webp",
+  "price":"$99.99"
+  
+  }
+      ],
+      "card-2":[
+        {"id":"43",
+        "header":"DIABLO IV",
+        "logo":"./public/images/7.png",
+        "text":"Pre-purchase now for Early Access to the Open Beta. Early access begins March 17",
+        "minitext":"Action RPG",
+        "pic":"./public/images/card16.jpg",
+        "price":"$99.99"
+      
       },
-      {
-        "id":"16",
-        "logo":"./public/images/3.png"
+      {"id":"44",
+      "header":"DIABLO IV",
+      "logo":"./public/images/2.png",
+      "text":"Pre-purchase now for Early Access to the Open Beta. Early access begins March 17",
+      "minitext":"Action RPG",
+      "pic":"./public/images/card15.jpg",
+      "price":"$99.99"
+    
+    },
+    {"id":"50",
+    "header":"DIABLO IV",
+    "logo":"./public/images/7.png",
+    "text":"Pre-purchase now for Early Access to the Open Beta. Early access begins March 17",
+    "minitext":"Action RPG",
+    "pic":"./public/images/card13.jpg",
+    "price":"$99.99"
+  
+  },
+  {"id":"45",
+  "header":"DIABLO IV",
+  "logo":"./public/images/3.png",
+  "text":"Pre-purchase now for Early Access to the Open Beta. Early access begins March 17",
+  "minitext":"Action RPG",
+  "pic":"./public/images/card12.jpg",
+  "price":"$99.99"
+  
+  },
+  {"id":"46",
+  "header":"DIABLO IV",
+  "logo":"./public/images/5.png",
+  "text":"Pre-purchase now for Early Access to the Open Beta. Early access begins March 17",
+  "minitext":"Action RPG",
+  "pic":"./public/images/card10.jpg",
+  "price":"$99.99"
+  
+  },
+  {"id":"47",
+  "header":"DIABLO IV",
+  "logo":"./public/images/6.png",
+  "text":"Pre-purchase now for Early Access to the Open Beta. Early access begins March 17",
+  "minitext":"Action RPG",
+  "pic":"./public/images/card11.jpg",
+  "price":"$99.99"
+  
+  },
+  {"id":"48",
+  "header":"DIABLO IV",
+  "logo":"./public/images/10.png",
+  "text":"Pre-purchase now for Early Access to the Open Beta. Early access begins March 17",
+  "minitext":"Action RPG",
+  "pic":"./public/images/card12.jpg",
+  "price":"$99.99"
+  
+  },
+  {"id":"49",
+  "header":"DIABLO IV",
+  "logo":"./public/images/11.png",
+  "text":"Pre-purchase now for Early Access to the Open Beta. Early access begins March 17",
+  "minitext":"Action RPG",
+  "pic":"./public/images/card3.webp",
+  "price":"$99.99"
+  
+  },
+  {"id":"51",
+  "header":"DIABLO IV",
+  "logo":"./public/images/12.png",
+  "text":"Pre-purchase now for Early Access to the Open Beta. Early access begins March 17",
+  "minitext":"Action RPG",
+  "pic":"./public/images/card4.webp",
+  "price":"$99.99"
+  
+  },
+  {"id":"52",
+  "header":"DIABLO IV",
+  "logo":"./public/images/13.png",
+  "text":"Pre-purchase now for Early Access to the Open Beta. Early access begins March 17",
+  "minitext":"Action RPG",
+  "pic":"./public/images/card5.webp",
+  "price":"$99.99"
+  
+  }
+      ],
+      "card-3":[
+        {"id":"53",
+        "header":"DIABLO IV",
+        "logo":"./public/images/7.png",
+        "text":"Pre-purchase now for Early Access to the Open Beta. Early access begins March 17",
+        "minitext":"Action RPG",
+        "pic":"./public/images/card16.jpg",
+        "price":"$99.99"
+      
       },
-      {
-        "id":"18",
-        "logo":"./public/images/5.png"
-      },
-      {
-        "id":"19",
-        "logo":"./public/images/6.png"
-      },
-      {
-        "id":"20",
-        "logo":"./public/images/7.png"
-      },
-      {
-        "id":"21",
-        "logo":"./public/images/10.png"
-      },
-      {
-        "id":"22",
-        "logo":"./public/images/11.png"
-      },
-      {
-        "id":"23",
-        "logo":"./public/images/12.png"
-      },
-      {
-        "id":"24",
-        "logo":"./public/images/13.png"
-      },
-      {
-        "id":"26",
-        "logo":"./public/images/15.png"
-      },
-      {
-        "id":"27",
-        "logo":"./public/images/16.png"
-      },
-      {
-        "id":"28",
-        "logo":"./public/images/17.png"
-      },
-      {
-        "id":"29",
-        "logo":"./public/images/18.png"
-      },
-      {
-        "id":"30",
-        "logo":"./public/images/19.png"
-      },
-      {
-        "id":"31",
-        "logo":"./public/images/20.png"
-      },
-      {
-        "id":"32",
-        "logo":"./public/images/21.png"
-      }]
+      {"id":"54",
+      "header":"DIABLO IV",
+      "logo":"./public/images/2.png",
+      "text":"Pre-purchase now for Early Access to the Open Beta. Early access begins March 17",
+      "minitext":"Action RPG",
+      "pic":"./public/images/card15.jpg",
+      "price":"$99.99"
+    
+    },
+    {"id":"60",
+    "header":"DIABLO IV",
+    "logo":"./public/images/7.png",
+    "text":"Pre-purchase now for Early Access to the Open Beta. Early access begins March 17",
+    "minitext":"Action RPG",
+    "pic":"./public/images/card13.jpg",
+    "price":"$99.99"
+  
+  },
+  {"id":"55",
+  "header":"DIABLO IV",
+  "logo":"./public/images/3.png",
+  "text":"Pre-purchase now for Early Access to the Open Beta. Early access begins March 17",
+  "minitext":"Action RPG",
+  "pic":"./public/images/card12.jpg",
+  "price":"$99.99"
+  
+  },
+  {"id":"56",
+  "header":"DIABLO IV",
+  "logo":"./public/images/5.png",
+  "text":"Pre-purchase now for Early Access to the Open Beta. Early access begins March 17",
+  "minitext":"Action RPG",
+  "pic":"./public/images/card14.jpg",
+  "price":"$99.99"
+  
+  },
+  {"id":"57",
+  "header":"DIABLO IV",
+  "logo":"./public/images/6.png",
+  "text":"Pre-purchase now for Early Access to the Open Beta. Early access begins March 17",
+  "minitext":"Action RPG",
+  "pic":"./public/images/card18.jpg",
+  "price":"$99.99"
+  
+  },
+  {"id":"58",
+  "header":"DIABLO IV",
+  "logo":"./public/images/10.png",
+  "text":"Pre-purchase now for Early Access to the Open Beta. Early access begins March 17",
+  "minitext":"Action RPG",
+  "pic":"./public/images/card17.jpg",
+  "price":"$99.99"
+  
+  },
+  {"id":"59",
+  "header":"DIABLO IV",
+  "logo":"./public/images/11.png",
+  "text":"Pre-purchase now for Early Access to the Open Beta. Early access begins March 17",
+  "minitext":"Action RPG",
+  "pic":"./public/images/card3.webp",
+  "price":"$99.99"
+  
+  },
+  {"id":"61",
+  "header":"DIABLO IV",
+  "logo":"./public/images/12.png",
+  "text":"Pre-purchase now for Early Access to the Open Beta. Early access begins March 17",
+  "minitext":"Action RPG",
+  "pic":"./public/images/card4.webp",
+  "price":"$99.99"
+  
+  },
+  {"id":"62",
+  "header":"DIABLO IV",
+  "logo":"./public/images/13.png",
+  "text":"Pre-purchase now for Early Access to the Open Beta. Early access begins March 17",
+  "minitext":"Action RPG",
+  "pic":"./public/images/card5.webp",
+  "price":"$99.99"
+  
+  }
+      ]
 }
