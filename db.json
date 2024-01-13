@@ -1,4 +1,5 @@
-"slider": [
+{
+      "slider": [
       {
         "id": "10",
         "pic": "./public/images/Cortez_Base_Game-Bnet_Game-Card_Feature-960x540.webp",
@@ -91,3 +92,5 @@
         "id":"32",
         "logo":"./public/images/21.png"
       }]
+
+}
